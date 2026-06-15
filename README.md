@@ -87,28 +87,17 @@ Showcasing my problem-solving statistics and profiles:
     <tr>
       <td width="50%" align="center">
         <a href="https://leetcode.com/arushichaudhary" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/arushichaudhary?colors=0d1117,0d1117,cba6f7,e0def4,cba6f7,a6e3a1,f9e2af,f38ba8" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?colors=0d1117,0d1117,cba6f7,e0def4,cba6f7,a6e3a1,f9e2af,f38ba8" width="100%" alt="LeetCode Stats" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://www.geeksforgeeks.org/user/arushichaudhary/" target="_blank">
-          <img src="https://gfgstatscard.vercel.app/arushichaudhary?theme=dark" width="100%" alt="GeeksForGeeks Stats" />
+          <img src="https://gfgstatscard.vercel.app/arushichau7axb?theme=dark" width="100%" alt="GeeksForGeeks Stats" />
         </a>
       </td>
     </tr>
   </table>
 </div>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/arushichaudhary" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.codechef.com/users/arushichaudhary" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-</p>
-
-*Note: The stats cards use your username `arushichaudhary`. If you have a different username on LeetCode or GeeksforGeeks, remember to change it in the links above!*
 
 ---
 
