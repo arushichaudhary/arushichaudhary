@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=33b1ff&center=true&vCenter=true&width=600&lines=Developer.+Problem+Solver.+Learner;Turning+ideas+into+real-world+projects!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ff79c6&center=true&vCenter=true&width=600&lines=Developer.+Problem+Solver.+Learner;Turning+ideas+into+real-world+projects!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,12 +21,11 @@ I am a passionate software developer and student who loves building projects and
 
 ### 🛠️ Tech Stack & Skills
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
-| **Web Dev & Databases** | ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
-| **Machine Learning** | ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white) |
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,js,flask,mysql,postgres,git,github" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
@@ -39,17 +38,28 @@ Showcasing my problem-solving statistics and profiles:
     <tr>
       <td width="50%" align="center">
         <a href="https://leetcode.com/arushichaudhary" target="_blank">
-          <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?colors=0d1117,0d1117,33b1ff,e2e8f0,33b1ff,a6e3a1,f9e2af,f38ba8" width="100%" alt="LeetCode Stats" />
+          <img src="https://leetcard.jacoblin.cool/arushichaudhary?colors=0d1117,0d1117,ff79c6,e2e8f0,bd93f9,a6e3a1,f9e2af,f38ba8" width="100%" alt="LeetCode Stats" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://www.geeksforgeeks.org/user/arushichaudhary/" target="_blank">
-          <img src="https://gfgstatscard.vercel.app/arushichau7axb?theme=dark" width="100%" alt="GeeksForGeeks Stats" />
+          <img src="https://gfgstatscard.vercel.app/arushichaudhary?theme=dark" width="100%" alt="GeeksForGeeks Stats" />
         </a>
       </td>
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/arushichaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/users/arushichaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=flat&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+*Note: The stats cards use your username `arushichaudhary`. If you have a different username on LeetCode or GeeksforGeeks, remember to change it in the links above!*
 
 ---
 
@@ -66,15 +76,15 @@ Showcasing my problem-solving statistics and profiles:
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&title_color=33b1ff&icon_color=33b1ff&text_color=e2e8f0&bg_color=0d1117&border_color=33b1ff&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&title_color=ff79c6&icon_color=bd93f9&text_color=e2e8f0&bg_color=0d1117&border_color=8be9fd&count_private=true" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushichaudhary&background=0d1117&fire=33b1ff&ring=33b1ff&stroke=33b1ff&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=33b1ff" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushichaudhary&background=0d1117&fire=ff79c6&ring=bd93f9&stroke=8be9fd&currStreakNum=e2e8f0&sideNums=e2e8f0&sideLabels=e2e8f0&dates=8be9fd" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushichaudhary&layout=compact&title_color=33b1ff&icon_color=33b1ff&text_color=e2e8f0&bg_color=0d1117&border_color=33b1ff&langs_count=8" width="80%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushichaudhary&layout=compact&title_color=ff79c6&icon_color=bd93f9&text_color=e2e8f0&bg_color=0d1117&border_color=8be9fd&langs_count=8" width="80%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -88,15 +98,14 @@ If you'd like to collaborate on a project, chat about machine learning, or just 
 
 <p align="left">
   <a href="mailto:arushichaudhary1975@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arushichaudhary1975%40gmail.com-33b1ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-arushichaudhary1975%40gmail.com-ff79c6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-33b1ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
 <p align="center">⭐️ Thanks for stopping by! Happy coding! ⭐️</p>
-
 
