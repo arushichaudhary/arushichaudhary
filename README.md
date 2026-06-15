@@ -1,6 +1,6 @@
 # Hi there, I'm Aarushi Chaudhary 👋
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=33b1ff&center=true&vCenter=true&width=600&lines=Developer.+Problem+Solver.+Learner;Turning+ideas+into+real-world+projects!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=cba6f7&center=true&vCenter=true&width=600&lines=Developer.+Problem+Solver.+Learner;Turning+ideas+into+real-world+projects!;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
@@ -78,21 +78,62 @@ I am a passionate software developer and student who loves building projects and
 
 ---
 
+### 🏆 Coding Platforms & Stats
+
+Showcasing my problem-solving statistics and profiles:
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://leetcode.com/arushichaudhary" target="_blank">
+          <img src="https://leetcard.jacoblin.cool/arushichaudhary?colors=0d1117,0d1117,cba6f7,e0def4,cba6f7,a6e3a1,f9e2af,f38ba8" width="100%" alt="LeetCode Stats" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://www.geeksforgeeks.org/user/arushichaudhary/" target="_blank">
+          <img src="https://gfgstatscard.vercel.app/arushichaudhary?theme=dark" width="100%" alt="GeeksForGeeks Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/arushichaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.codechef.com/users/arushichaudhary" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4636?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+</p>
+
+*Note: The stats cards use your username `arushichaudhary`. If you have a different username on LeetCode or GeeksforGeeks, remember to change it in the links above!*
+
+---
+
+### 📜 Certificates & Achievements
+
+- 🏅 **[Certificate Title]** — Issued by *[Issuer]* (e.g., Coursera, Udemy, NPTEL) | [Verify Credential](link-to-certificate)
+- 🏅 **[Certificate Title]** — Issued by *[Issuer]* | [Verify Credential](link-to-certificate)
+
+---
+
 ### 📊 GitHub Stats
 
 <div align="center">
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&theme=radical&count_private=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&title_color=cba6f7&icon_color=cba6f7&text_color=e0def4&bg_color=0d1117&border_color=cba6f7&count_private=true" width="100%" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushichaudhary&theme=radical" width="100%" alt="GitHub Streak" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=arushichaudhary&background=0d1117&fire=cba6f7&ring=cba6f7&stroke=cba6f7&currStreakNum=e0def4&sideNums=e0def4&sideLabels=e0def4&dates=cba6f7" width="100%" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushichaudhary&layout=compact&theme=radical&langs_count=8" width="80%" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arushichaudhary&layout=compact&title_color=cba6f7&icon_color=cba6f7&text_color=e0def4&bg_color=0d1117&border_color=cba6f7&langs_count=8" width="80%" alt="Top Languages" />
       </td>
     </tr>
   </table>
@@ -106,10 +147,10 @@ If you'd like to collaborate on a project, chat about machine learning, or just 
 
 <p align="left">
   <a href="mailto:arushichaudhary1975@gmail.com">
-    <img src="https://img.shields.io/badge/Email-arushichaudhary1975%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-arushichaudhary1975%40gmail.com-cba6f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-cba6f7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
