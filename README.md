@@ -95,11 +95,11 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 ## 🧩 Coding Platforms
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" width="90%"/>
+  <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?theme=light&font=Inter&ext=heatmap" width="90%"/>
 </p>
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/YOUR_GFG_USERNAME" width="90%"/>
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/arushichau7axb" width="90%"/>
 </p>
 
 > Replace `YOUR_LEETCODE_USERNAME` and `YOUR_GFG_USERNAME` above with your actual handles.
