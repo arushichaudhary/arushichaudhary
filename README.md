@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8ec5fc,100:c9a7ff&height=200&section=header&text=Hi,%20I'm%20Aarushi%20Chaudhary&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:3b2f78&height=220&section=header&text=Hi,%20I'm%20Aarushi%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=56&descSize=18&descColor=e8e4ff" width="100%"/>
 
 <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:arushichaudhary1975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -142,4 +142,5 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c9a7ff,100:8ec5fc&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2f78,100:667eea&height=100&section=footer" width="100%"/>
+
