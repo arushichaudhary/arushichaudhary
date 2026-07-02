@@ -1,9 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:3b2f78&height=220&section=header&text=Hi,%20I'm%20Aarushi%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=56&descSize=18&descColor=e8e4ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:3b2f78&height=220&section=header&text=Hi,%20I%27m%20Aarushi%20Chaudhary&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=56&descSize=18&descColor=e8e4ff" width="100%"/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aarushi-chaudhary-451499331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:arushichaudhary1975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=600&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars+%F0%9F%95%B5%EF%B8%8F;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +30,7 @@
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [StudyNest — AI-Powered PDF Learning Assistant](https://github.com/arushichaudhary/YOUR-REPO-NAME)**
+**🧠 [StudyNest — AI-Powered PDF Learning Assistant](https://github.com/arushichaudhary/pdf-to-quiz)**
 
 Full-stack app that turns any PDF into quizzes, flashcards, and smart notes using an LLM-integrated pipeline.
 
@@ -36,7 +40,7 @@ Full-stack app that turns any PDF into quizzes, flashcards, and smart notes usin
 
 `Flask` `SQLite` `RAG` `LLM APIs` `Tailwind CSS` `Python`
 
-🔗 [Live Demo](#) · 📂 [Repo](#)
+🔗 [Live Demo](https://pdf-to-quiz-rcme.onrender.com) · 📂 [Repo](https://github.com/arushichaudhary/pdf-to-quiz)
 
 </td>
 <td width="50%" valign="top">
@@ -87,20 +91,13 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 ## 🧩 Coding Platforms
 
-<table>
-<tr>
-<td width="50%">
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" width="90%"/>
+</p>
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" width="100%"/>
-
-</td>
-<td width="50%">
-
-<img src="https://geeks-for-geeks-stats-card.vercel.app/YOUR_GFG_USERNAME" width="100%"/>
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/YOUR_GFG_USERNAME" width="90%"/>
+</p>
 
 > Replace `YOUR_LEETCODE_USERNAME` and `YOUR_GFG_USERNAME` above with your actual handles.
 
