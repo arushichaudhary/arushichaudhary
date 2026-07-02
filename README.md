@@ -1,13 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:3b2f78&height=220&section=header&text=Hi%2C%20Aarushi%20Chaudhary%20Here&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20Engineering%20Student%20%7C%20Data%20Science%20%26%20ML&descAlignY=56&descSize=18&descColor=e8e4ff&v=2" width="100%"/>
+# 👋 Hi, I am Aarushi Chaudhary
 
-<a href="https://www.linkedin.com/in/aarushi-chaudhary-451499331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:arushichaudhary1975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=700&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars+%F0%9F%95%B5%EF%B8%8F;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=600&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars+%F0%9F%95%B5%EF%B8%8F;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
+<a href="https://www.linkedin.com/in/aarushi-chaudhary-451499331/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:arushichaudhary1975@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/arushichaudhary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -139,4 +142,8 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b2f78,100:667eea&height=100&section=footer" width="100%"/>
+<div align="center">
+
+⭐️ Thanks for stopping by — always happy to connect on **[LinkedIn](https://www.linkedin.com/in/aarushi-chaudhary-451499331/)** or via **[email](mailto:arushichaudhary1975@gmail.com)**.
+
+</div>
