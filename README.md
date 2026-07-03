@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I am Aarushi Chaudhary
+# Hi, I'm Aarushi Chaudhary
 
 ### Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=700&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars+%F0%9F%95%B5%EF%B8%8F;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=700&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <br/>
 
@@ -16,24 +16,23 @@
 
 <br/>
 
-## 👋 About Me
+## About Me
 
-- 🎓 B.Tech in Computer Science Engineering @ **VIT Bhopal University** (CGPA: **8.99/10**)
-- 🧠 Focused on **Machine Learning, NLP, and full-stack ML deployment**
-- 🚀 I build end-to-end ML products — from model training to a live, deployed app people can actually use
-- 📜 Certified: **AWS Certified Cloud Practitioner** · NPTEL ML (Silver Medal) · NPTEL Marketing Analytics (Gold Medal) · Kaggle Intro to ML · Google Computer Networking
-- 🌱 Currently exploring: Retrieval-Augmented Generation & LLM-powered applications
-- 💬 Open to **Data Science / Machine Learning internship** opportunities
+- B.Tech in Computer Science Engineering at **VIT Bhopal University** (CGPA: **8.99/10**)
+- Focused on **Machine Learning, NLP, and full-stack ML deployment**
+- I build end-to-end ML products — from model training to a live, deployed app people can actually use
+- Currently exploring **Retrieval-Augmented Generation** and LLM-powered applications
+- Open to **Data Science / Machine Learning internship** opportunities
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 [StudyNest — AI-Powered PDF Learning Assistant](https://github.com/arushichaudhary/pdf-to-quiz)**
+**[StudyNest — AI-Powered PDF Learning Assistant](https://github.com/arushichaudhary/pdf-to-quiz)**
 
 Full-stack app that turns any PDF into quizzes, flashcards, and smart notes using an LLM-integrated pipeline.
 
@@ -43,22 +42,22 @@ Full-stack app that turns any PDF into quizzes, flashcards, and smart notes usin
 
 `Flask` `SQLite` `RAG` `LLM APIs` `Tailwind CSS` `Python`
 
-🔗 [Live Demo](https://pdf-to-quiz-rcme.onrender.com) · 📂 [Repo](https://github.com/arushichaudhary/pdf-to-quiz)
+[Live Demo](https://pdf-to-quiz-rcme.onrender.com) · [Repo](https://github.com/arushichaudhary/pdf-to-quiz)
 
 </td>
 <td width="50%" valign="top">
 
-**🕵️ [TrustSeal — NLP Job Fraud Detection](https://github.com/arushichaudhary/job-fraud-detection)**
+**[TrustSeal — NLP Job Fraud Detection](https://github.com/arushichaudhary/job-fraud-detection)**
 
 ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real time.
 
 - Trained on the EMSCAD dataset (~18,000 labeled job postings)
 - TF-IDF vectorization pipeline feeding a probabilistic classifier
-- Real-time input-completion tracker + preloaded sample postings
+- Real-time input-completion tracker with preloaded sample postings
 
 `Flask` `scikit-learn` `TF-IDF` `Python`
 
-🔗 [Live Demo](https://job-fraud-detection-bxfa.onrender.com) · 📂 [Repo](https://github.com/arushichaudhary/job-fraud-detection)
+[Live Demo](https://job-fraud-detection-bxfa.onrender.com) · [Repo](https://github.com/arushichaudhary/job-fraud-detection)
 
 </td>
 </tr>
@@ -66,7 +65,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-## 🛠️ My Tech Stack
+## Tech Stack
 
 **Languages & Core**
 
@@ -92,7 +91,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-## 🧩 Coding Platforms
+## Coding Platforms
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?theme=light&font=Inter&ext=heatmap" width="90%"/>
@@ -104,7 +103,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&theme=default&hide_border=true" width="48%" />
@@ -113,7 +112,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arushichaudhary&theme=minimal&hide_border=true" width="100%"/>
@@ -121,27 +120,27 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <br/>
 
-## 🏆 Certifications
+## Certifications
 
 | Certification | Issuer | Result |
 |---|---|---|
-| Introduction to Machine Learning | NPTEL | 🥈 Silver Medal |
-| Marketing Analytics | NPTEL | 🥇 Gold Medal |
+| Introduction to Machine Learning | NPTEL | Silver Medal |
+| Marketing Analytics | NPTEL | Gold Medal |
 | AWS Certified Cloud Practitioner | AWS | Certified |
 | Intro to Machine Learning | Kaggle | Completed |
 | The Bits and Bytes of Computer Networking | Google | Completed |
 
 <br/>
 
-## 🤝 Beyond Code
+## Beyond Code
 
-- Core Member, Event Management Team — **Microsoft Club**
-- 🏸 Badminton · 🏓 Table Tennis · 🏊 Swimming
+- Core Member, Event Management Team — Microsoft Club
+- Badminton · Table Tennis · Swimming
 
 <br/>
 
 <div align="center">
 
-⭐️ Thanks for stopping by — always happy to connect on **[LinkedIn](https://www.linkedin.com/in/aarushi-chaudhary-451499331/)** or via **[email](mailto:arushichaudhary1975@gmail.com)**.
+Thanks for stopping by — always happy to connect on **[LinkedIn](https://www.linkedin.com/in/aarushi-chaudhary-451499331/)** or via **[email](mailto:arushichaudhary1975@gmail.com)**.
 
 </div>
