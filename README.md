@@ -121,10 +121,6 @@ Node.js/Express app that recommends recipes based on pantry contents, dietary ne
   <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?theme=light&font=Inter&ext=heatmap" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/arushichau7axb" width="90%"/>
-</p>
-
 <br/>
 
 ## GitHub Stats
