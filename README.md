@@ -97,10 +97,6 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
   <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?theme=light&font=Inter&ext=heatmap" width="90%"/>
 </p>
 
-<p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/arushichau7axb" width="90%"/>
-</p>
-
 <br/>
 
 ## GitHub Stats
