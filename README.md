@@ -2,7 +2,7 @@
 
 # Hi, I'm Aarushi Chaudhary
 
-### Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
+### Fourth-Year Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=700&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ## About Me
 
-- B.Tech in Computer Science Engineering at **VIT Bhopal University** (CGPA: **8.99/10**)
+- Fourth-year B.Tech student in Computer Science Engineering at **VIT Bhopal University** (CGPA: **8.99/10**)
 - Focused on **Machine Learning, NLP, and full-stack ML deployment**
 - I build end-to-end ML products — from model training to a live, deployed app people can actually use
 - Currently exploring **Retrieval-Augmented Generation** and LLM-powered applications
@@ -106,8 +106,8 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=arushichaudhary&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=arushichaudhary&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 
 <br/>
@@ -135,7 +135,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 ## Beyond Code
 
 - Core Member, Event Management Team — Microsoft Club
-- Badminton · Table Tennis · Swimming
+- Badminton, Table Tennis, Swimming
 
 <br/>
 
