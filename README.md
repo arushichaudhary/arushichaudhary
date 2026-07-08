@@ -34,11 +34,12 @@
 
 **[StudyNest — AI-Powered PDF Learning Assistant](https://github.com/arushichaudhary/pdf-to-quiz)**
 
-Full-stack app that turns any PDF into quizzes, flashcards, and smart notes using an LLM-integrated pipeline.
+Full-stack Flask application spanning 14 pages/views that converts uploaded PDFs into AI-generated quizzes, flashcards, and structured notes.
 
-- RAG-based tutor that answers strictly from the uploaded document (no hallucination)
-- 5 quiz types × 3 difficulty levels, plus XP/streaks/badges gamification
-- Multi-provider LLM support (Anthropic, OpenAI, Gemini)
+- RAG-based tutor that chunks source documents and retrieves the most relevant passages before answering, keeping responses grounded in the uploaded material rather than model memory
+- 5 quiz formats (MCQ, True/False, Fill-in-the-Blank, Match-the-Following, Short Answer) plus an adaptive revision engine that re-targets topics scoring below 60% accuracy
+- Full gamification system — XP, leveling, daily streaks, and 6 unlockable achievement badges
+- Provider-agnostic LLM pipeline supporting Anthropic, OpenAI, and Gemini
 
 `Flask` `SQLite` `RAG` `LLM APIs` `Tailwind CSS` `Python`
 
@@ -51,13 +52,36 @@ Full-stack app that turns any PDF into quizzes, flashcards, and smart notes usin
 
 ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real time.
 
-- Trained on the EMSCAD dataset (~18,000 labeled job postings)
-- TF-IDF vectorization pipeline feeding a probabilistic classifier
-- Real-time input-completion tracker with preloaded sample postings
+- Trained and benchmarked 5 classifiers (Naive Bayes, Logistic Regression, LinearSVC, Decision Tree, Random Forest) on a class-balanced set of 1,732 EMSCAD job postings
+- Selected Random Forest for deployment based on 90% accuracy and F1-score, the best of all candidates tested
+- Bag-of-Words feature pipeline via `CountVectorizer` feeding confidence-scored, real-time predictions
+- Flask web interface with a real-time input-completion tracker and preloaded sample postings
 
 `Flask` `scikit-learn` `TF-IDF` `Python`
 
 [Live Demo](https://job-fraud-detection-bxfa.onrender.com) · [Repo](https://github.com/arushichaudhary/job-fraud-detection)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[PlateMind — Smart Nutrition & Recipe Recommendation App](https://github.com/arushichaudhary/PlateMind)**
+
+Node.js/Express app that recommends recipes based on pantry contents, dietary needs, and nutrition goals.
+
+- Node.js/Express authentication layer (register, login, logout, session-check) with bcrypt-hashed passwords and httpOnly, production-secured session cookies
+- Transparent recipe-scoring engine ranking meals by pantry-ingredient overlap, dietary fit, and calorie/protein proximity, with hard exclusion rules for allergens
+- Powers ingredient-substitution and low-stock "leftover rescue" suggestions
+- 7 interactive pages — dashboard, pantry tracker, recipe browser, 7-day × 3-meal planner, grocery list, and preferences — with auto-generated shopping lists
+- One-click Render Blueprint deployment (`render.yaml`) with a persistent disk and auto-generated session secret
+
+`Node.js` `Express` `bcrypt` `HTML/CSS/JavaScript`
+
+[Live Demo](https://platemind-tkgo.onrender.com) · [Repo](https://github.com/arushichaudhary/PlateMind)
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -73,7 +97,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 **Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=flask,tailwind" />
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,tailwind" />
 
 **Machine Learning & Data Science**
 
@@ -95,6 +119,10 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Aarushi_Chaudhary?theme=light&font=Inter&ext=heatmap" width="90%"/>
+</p>
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/arushichau7axb" width="90%"/>
 </p>
 
 <br/>
