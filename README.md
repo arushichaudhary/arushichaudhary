@@ -106,8 +106,7 @@ ML web app that flags job postings as Genuine, Suspicious, or Fraudulent in real
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arushichaudhary&show_icons=true&theme=default&hide_border=true&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=arushichaudhary&hide_border=true&cache_seconds=86400" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=arushichaudhary&hide_border=true&cache_seconds=86400" width="90%" />
 </p>
 
 <br/>
