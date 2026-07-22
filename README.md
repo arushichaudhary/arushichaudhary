@@ -2,7 +2,7 @@
 
 # Hi, I'm Aarushi Chaudhary
 
-### Fourth-Year Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
+### Fourth-Year Computter Science Engineering Student &nbsp;|&nbsp; Data Science & ML
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=1000&color=8A6FC9&center=true&vCenter=true&width=700&lines=Turning+ML+ideas+into+shipped+products;Teaching+models+to+catch+liars;Debugging+life%2C+one+commit+at+a+time" alt="Typing SVG" />
 
