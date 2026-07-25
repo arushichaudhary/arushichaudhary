@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Aarushi Chaudharyyyy
+# Hi, I'm Aarushi Chaudhary
 
 ### Fourth-Year Computer Science Engineering Student &nbsp;|&nbsp; Data Science & ML
 
